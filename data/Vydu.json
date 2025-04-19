@@ -1,0 +1,55 @@
+{
+  "userName": "Vydu",
+  "claimNumber": "VYDU123",
+  "prescription": [
+    [
+      "Paracetamol",
+      "2024-04-01",
+      "Apollo",
+      "$15"
+    ]
+  ],
+  "otc": [
+    [
+      "Vitamin C",
+      "2024-04-02",
+      "$10",
+      "Medical Store",
+      "Immunity"
+    ]
+  ],
+  "supplies": [
+    [
+      "Knee brace",
+      "2024-04-03",
+      "Yes",
+      "$25",
+      "HealthMart"
+    ]
+  ],
+  "parking": [
+    [
+      "Main Street",
+      "2024-04-04",
+      "$5",
+      "Yes"
+    ]
+  ],
+  "mileage": [
+    [
+      "2024-04-05",
+      "Home",
+      "Clinic",
+      "10km"
+    ]
+  ],
+  "fare": [
+    [
+      "2024-04-06",
+      "Home",
+      "Hospital",
+      "Taxi",
+      "$12"
+    ]
+  ]
+}

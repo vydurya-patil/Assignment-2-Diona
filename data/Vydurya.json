@@ -1,0 +1,55 @@
+{
+  "userName": "Vydurya",
+  "claimNumber": "VYDURYA123",
+  "prescription": [
+    [
+      "Ibuprofen",
+      "2024-04-01",
+      "Fortis",
+      "$20"
+    ]
+  ],
+  "otc": [
+    [
+      "Cough Syrup",
+      "2024-04-02",
+      "$8",
+      "MedPlus",
+      "Cold"
+    ]
+  ],
+  "supplies": [
+    [
+      "Bandage",
+      "2024-04-03",
+      "No",
+      "$5",
+      "Pharmacy"
+    ]
+  ],
+  "parking": [
+    [
+      "2nd Ave",
+      "2024-04-04",
+      "$3",
+      "No"
+    ]
+  ],
+  "mileage": [
+    [
+      "2024-04-05",
+      "Office",
+      "Doctor",
+      "15km"
+    ]
+  ],
+  "fare": [
+    [
+      "2024-04-06",
+      "Office",
+      "Clinic",
+      "Bus",
+      "$2"
+    ]
+  ]
+}

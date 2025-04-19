@@ -1,0 +1,16 @@
+
+mixin tableSection(title, headers, rows)
+  h4 #{title}
+  if rows.length > 0
+    table
+      thead
+        tr
+          each head in headers
+            th= head
+      tbody
+        each row in rows
+          tr
+            each val in row
+              td= val
+  else
+    p No data available.
